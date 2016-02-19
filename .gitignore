@@ -1,0 +1,6 @@
+# IntelliJ nonsense
+.idea
+*.iml
+
+# NPM nonsense
+node_modules
